@@ -1,2 +1,2 @@
 ,lags_tested,LM_stat,LM_p_value,F_stat,F_p_value,n_obs,Conclusion
-0,12,,,,,,Cannot reject no-ARCH
+0,12,718.6642156973709,4.450569524860884e-146,71.32817042295778,7.333424758267242e-160,4425,Reject no-ARCH (vol clustering)

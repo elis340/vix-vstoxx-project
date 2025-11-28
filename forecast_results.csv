@@ -1,2 +1,2 @@
-,window,ar_order_p
-0,90,6
+,n_obs,mse,mae,directional_hits,directional_hit_rate,window,ar_order_p
+0,1409,13.22533602837114,2.009767936038296,830,0.5894886363636364,90,6
